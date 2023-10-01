@@ -1,3 +1,17 @@
+An e-commerce site was designed with features like Complete cart functionality, Wishlist, CatLog, and Payment Path to enhance user involvement developed using Next.js 13.
+•	The application was created and developed using JavaScript, Next.js, Redux Toolkit, and Tailwind CSS.
+•	Backend part developed using Strapi Headless CMS, Stripe, and Postgres.
+• Redux Toolkit is used for state management, while Server-Side Rendering (SSR, SSG) is used for Data Fetching.
+
+Live -  https://shoe-store-frontend-lime-mu.vercel.app/
+.
+.
+![home1](https://github.com/varunn76/shoe-store-frontend/assets/72183609/acc1e148-f3a0-4346-8f7d-e9d0df4c1ea9)
+![h4](https://github.com/varunn76/shoe-store-frontend/assets/72183609/a89ff61e-0aa4-4781-add0-c40f7351e74b)
+![H5 2](https://github.com/varunn76/shoe-store-frontend/assets/72183609/5537f2cd-643a-4e58-b51b-b534a6354121)
+![h5](https://github.com/varunn76/shoe-store-frontend/assets/72183609/97c0f897-7140-4628-9ae6-071e06785da4)
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
